@@ -1,4 +1,4 @@
-# corsoangular4bi20232024
+# Corso aggiornamento Angular 2023-24
 
 ## Link interessanti
 
